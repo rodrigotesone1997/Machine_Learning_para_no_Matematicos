@@ -2,7 +2,7 @@
 <p>
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/rodrigotesone97?s=08" target="_blank">
+  <a href="https://twitter.com/rodrigotesone97" target="_blank">
     <img alt="Twitter: Rodrigo Tesone" src="https://img.shields.io/twitter/follow/rodrigotesone97.svg?style=social" />
   </a>
 </p>
@@ -10,7 +10,8 @@ En este repositorio se encuentra el primer capítulo de "Machine Learning para n
 Ademas de la lectura del pdf se recomienda ejecutar el cuaderno de Jupyter Notebook para entender el código que crea las imagenes y el calculo las regresiones.</br></br>
 
 > Este repositorio consta de:
-> - La carpeta [Latex](Latex) que contiene el [pdf](Latex/Linear_Regression.pdf) a leer, su [código fuente](Latex/main.tex) y las [imagenes](Latex7imagenes) que aparecen en el texto
+> - Un archivo [pdf](Latex/Linear_Regression.pdf) que contiene el primer capítulo
+> - La carpeta [Latex](Latex) que contiene el [código fuente](Latex/main.tex) y las [imagenes](Latex/imagenes) del texto
 > - El archivo [requerimentes.txt](requeriments.txt) que contiene las versiones de los paquetes utilizados en el proyecto
 > - El cuaderno [Linear_Regression.ipynb](Linear_Regression.ipynb) que contiene el código de las imagenes y las regresiones lineales
 > - El archivo [train.csv](train.csv) que contiene los datos que se usan en el texto y en el código
