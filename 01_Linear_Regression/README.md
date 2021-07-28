@@ -10,7 +10,7 @@ En este repositorio se encuentra el primer capítulo de "Machine Learning para n
 Ademas de la lectura del pdf se recomienda ejecutar el cuaderno de Jupyter Notebook para entender el código que crea las imagenes y el calculo las regresiones.</br></br>
 
 > Este repositorio consta de:
-> - Un archivo [pdf](Latex/Linear_Regression.pdf) que contiene el primer capítulo
+> - Un archivo [pdf](Linear_Regression.pdf) que contiene el primer capítulo
 > - La carpeta [Latex](Latex) que contiene el [código fuente](Latex/main.tex) y las [imagenes](Latex/imagenes) del texto
 > - El archivo [requerimentes.txt](requeriments.txt) que contiene las versiones de los paquetes utilizados en el proyecto
 > - El cuaderno [Linear_Regression.ipynb](Linear_Regression.ipynb) que contiene el código de las imagenes y las regresiones lineales
@@ -55,3 +55,23 @@ Cualquier sugerencia de arquitectura de código,pregunta o problema enviar mail 
 ## 🤔 Autor
 
 👤 **Rodrigo Tesone**
+
+<!---* Website: xadec
+-->
+* Twitter: [@rodrigotesone97](https://twitter.com/rodrigotesone97)
+* Github: [rodrigotesone1997](https://github.com/rodrigotesone1997)
+<!---* LinkedIn: [@ff](https://linkedin.com/in/ff)
+-->
+## 🤝 Contribuciones y Agradecimientos
+
+Agradezco a todos los que se han tomando el tiempo alguna vez para enseñarme e inspirarme en diferentes momentos de mi vida.
+
+## 📝 Licencia
+
+Copyright © 2021 [Rodrigo](https://github.com/rodrigotesone1997).<br />
+This project is [MIT](LICENSE) licensed.
+
+***
+
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
