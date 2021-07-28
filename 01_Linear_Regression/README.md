@@ -12,7 +12,7 @@ Ademas de la lectura del pdf se recomienda ejecutar el cuaderno de Jupyter Noteb
 > Este repositorio consta de:
 > - Un archivo [pdf](Linear_Regression.pdf) que contiene el primer capítulo
 > - La carpeta [Latex](Latex) que contiene el [código fuente](Latex/main.tex) y las [imagenes](Latex/Imagenes) del texto
-> - El archivo [requerementes.txt](requerements.txt) que contiene las versiones de los paquetes utilizados en el proyecto
+> - El archivo [requirements.txt](requirements.txt) que contiene las versiones de los paquetes utilizados en el proyecto
 > - El cuaderno [Linear_Regression.ipynb](Linear_Regression.ipynb) que contiene el código de las imagenes y las regresiones lineales
 > - El archivo [train.csv](train.csv) que contiene los datos que se usan en el texto y en el código
 > - El archivo [data_description.txt](data_description.txt) que explica el significado de las abreviaciones usadas en las columnas del archivo [train.csv](train.csv)
