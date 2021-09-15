@@ -1,5 +1,6 @@
 <h1 align="center">Bienvenido 👋</h1>
 <p>
+    <a href="LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://twitter.com/rodrigotesone97" target="_blank">
@@ -36,7 +37,7 @@ Particularmente ver estos videos para interiorizarse de algunos conceptos:
 Podes empezar con esta lista pero recomiendo todo su canal honestamente.</br>
 - [Lista Aprendiendo ia](https://www.youtube.com/watch?v=HHqlEnoGk54&list=PLJjOveEiVE4Cbbx1dVjydfmPPpjl0pg86)
 
-## 📂 Clonar Reposotorio
+## 📂 Clonar Repositorio
 
 ```
 
@@ -56,8 +57,8 @@ Cualquier sugerencia de arquitectura de código,pregunta o problema enviar mail 
 -->
 * Twitter: [@rodrigotesone97](https://twitter.com/rodrigotesone97)
 * Github: [rodrigotesone1997](https://github.com/rodrigotesone1997)
-<!---* LinkedIn: [@ff](https://linkedin.com/in/ff)
--->
+* LinkedIn: [rodrigo-tesone](https://linkedin.com/in/rodrigo-tesone)
+
 ## 🤝 Contribuciones y Agradecimientos
 
 Agradezco a todos los que se han tomando el tiempo alguna vez para enseñarme e inspirarme en diferentes momentos de mi vida.
